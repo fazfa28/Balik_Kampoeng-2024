@@ -4,3 +4,5 @@ Hii just take note few things about the code:
   2. best.pt is the YOLO model used for orangutan detection
   3. master_code_final was the final code used for the deployment
   4. slaves code folder contains C file that we deployed on the slaves(ESP32_CAM)
+
+Note: Docker was employed to run the YOLO model for orangutan detection on Debian 12(bookworm)
